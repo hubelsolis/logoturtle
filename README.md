@@ -2,7 +2,7 @@
 
 Intérprete del lenguaje **LOGO** desarrollado con fines **educativos**, orientado a la enseñanza de programación básica, geometría y pensamiento algorítmico mediante **gráficos de tortuga**.
 
-Este proyecto ha sido desarrollado para ser utilizado por **estudiantes**, permitiéndoles experimentar con instrucciones simples de dibujo, movimiento y color.
+Este proyecto ha sido desarrollado con Delphi 10.4, para ser utilizado por **estudiantes**, permitiéndoles experimentar con instrucciones simples de dibujo, movimiento y color.
 
 ---
 
